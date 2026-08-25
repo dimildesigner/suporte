@@ -1,4 +1,4 @@
-package com.senai.suporte.suporte;
+package com.senai.suporte;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
